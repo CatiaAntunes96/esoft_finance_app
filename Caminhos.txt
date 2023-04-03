@@ -1,0 +1,56 @@
+Utilizador
+
+Caminho Principal - Criar conta
+1º O utilizador utiliza a aplicação pela 1º vez
+2º O utilizador carrega no botão registar
+3º O utilizador coloca o primeiro nome, último nome, email e password
+4º O utilizador é reencaminhado para a página da lista de movimentos
+
+
+
+
+
+
+
+Caminho Principal - Entrar na conta
+1º O utilizador entra na conta com o seu email e password
+2º O utilizador carrega no botão de entrar
+3º O utilizador é reencaminhado para a página de lista de movimentos
+
+
+
+Caminho Principal - Editar conta
+1º O utilizador carrega no botão editar conta
+2º O utilizador é reencaminhado para a página editar conta
+3º O utilizador pode editar o primeiro nome e ultimo nome
+4ª O utilizador guarda as alterações
+5º O utilizador foi editado
+
+Caminho Alternativo
+3.1 O utilizador cancela o editar conta
+
+
+Caminho Principal - Remover conta
+1º O utilizador carrega no botão editar conta
+2º O utilizador é reencaminhado para a página editar conta
+3º O utilizador carrega no botão remover conta
+4º Aparece uam caixa de diálogo para confirmar a ação
+5º O utilizador confirma a ação
+6º O utilizador é removido
+7º O utilizador é reencaminhado para a página de login 
+
+Caminho Alternativo
+5.1 O utilizador cancela a remoçã da conta
+5.2 o utilizador  é reencaminhado para a página editar conta
+
+
+Movimentos
+
+Caminho principal - Adicionar Movimentos
+1º O utilizador carrega no botºao adicionar movimentos
+2º O utilizador é reencaminhado para página adicionar movimento
+3º O utilizador preenche os campos
+4º O utilizador guarda o movimento
+
+
+Caminho principal - 
