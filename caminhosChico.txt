@@ -1,0 +1,22 @@
+apagar conta
+apagar movimento
+consultar lista movimentos
+
+
+
+Caminho Principal - Apagar Conta
+1º O utilizador escolhe a conta que pretende apagar
+2º O utilizador carrega no botão de apagar conta
+3º É apresentado uma janela para confirmar o remover da conta
+4º O utilizador carrega no botão "sim" e a conta é eliminada.
+
+
+Caminho Principal - Apagar movimento
+1º Selecionar a conta pretendida
+2º Selecionar o movimento pretendido para eliminar o movimento
+3º É apresentado uma janela para confirmar a eliminação do movimento
+4º O utilizador carrega no botão "sim" e o movimento é eliminado
+
+
+Caminho Principal - Consultar lista movimentos
+1º O utilizador seleciona a conta que pretende ver
