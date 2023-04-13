@@ -1,0 +1,18 @@
+Editar Utilizador
+Caminho principal
+1. O utilizador carrega no botao "Edit user".
+2. O utilizador é reencaminhado para a página de edição do utilizador
+3. O utilizador preenche o primeiro e último nome
+4. O utilizador carrega em "Save" para guardar as alterações
+
+Consultar Somatorios dos Gastos
+Caminho principal
+1. O utilizador seleciona a conta pretendida
+2. O utilizador é reencaminhado para a página de movimentos
+3. A informação pretendida encontra-se visivel do lado direito do ecrã
+
+Consultar Somatorios dos Recebimentos
+Caminho principal
+1. O utilizador seleciona a conta pretendida
+2. O utilizador é reencaminhado para a página de movimentos
+3. A informação pretendida encontra-se visivel do lado direito do ecrã
