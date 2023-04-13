@@ -1,0 +1,34 @@
+Conta
+
+Caminho Principal - Criar conta
+1º O utilizador carrega no botão Adicionar conta
+2º O utilizador seleciona o tipo de conta, preenche a descrição e o saldo
+3º O utilizador carrega no botão Guardar
+4º O utilizador é reencaminhado para a lista de movimentos
+
+
+Caminho Secundário - Criar conta
+3.1 O utilizador carrega no botão Cancelar
+3.2 O utilizador é reencaminhado para a lista de movimentos 
+
+
+
+
+Caminho Principal - Consultar Saldo Conta
+1º O utilizador entra na página de consultar movimentos
+2º O utilizador seleciona o conta pretendida
+3º O utilizador é reencaminhado para a página de lista de movimentos da contra pretendida
+4º O utilizador é visualiza o salto da conta
+
+
+Caminho Principal - Adicionar movimento
+1º O utilizador carrega no botão adicionar movimento
+2º O utilizador é reencaminhado para a página adicionar movimento
+3º O utilizador preenche a data, a descrição, o montante, tipo (débito ou credito) e a que conta pertence
+4ª O utilizador carrega no botão "Save"
+5º  O utilizador é reencaminhado para a lista de movimentos
+
+Caminho Secundário - Criar conta
+3.1 O utilizador carrega no botão Cancelar
+3.2 O utilizador é reencaminhado para a lista de movimentos 
+
